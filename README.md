@@ -1,6 +1,6 @@
 Termux All Necessary Package Installer
 
-This Is A Simple sh Script To Install All Inportant Tool On Termux
+This Is A Simple sh Script To Install All Important Tool On Termux
 
 Like Python,Python 3,c++,Perl Etc.
 
