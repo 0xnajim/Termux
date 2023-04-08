@@ -14,8 +14,9 @@ apt update
 
 apt install git
 
-git clone https://github.com/Deborshibd/Termux-All-Necessary-Package-Installer.git
+git clone https://github.com/0xnajim/Termux
 
-cd Termux-All-Necessary-Package-Installer
+cd Termux
 
-sh Termux-All-Necessary-Package-Installer if not work than use ./Termux-All-Necessary-Package-Installer
+sh installer
+---if not work than use ./installer
